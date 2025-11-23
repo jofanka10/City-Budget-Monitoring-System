@@ -1,0 +1,12 @@
+INSTRUCTIONS TO ADD BACKGROUND IMAGE
+=====================================
+
+1. Copy your Bg_pweb.jpg file to this location:
+   /Users/jofanka/Documents/PemWeb Kelas/Vibe Coding/frontend/public/Bg_pweb.jpg
+
+2. The file should be named exactly: Bg_pweb.jpg
+
+3. After adding the file, refresh your browser (Cmd + Shift + R)
+
+The CSS is already configured to use this image automatically.
+
